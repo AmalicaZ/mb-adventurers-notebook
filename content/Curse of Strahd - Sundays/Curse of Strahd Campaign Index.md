@@ -1,0 +1,1 @@
+This notebook is for the Curse of Strahd Campaign for Sunday nights on Foundry VTT
